@@ -219,9 +219,9 @@ export default function Home() {
                <button
                   className={styles.buttonForm}
                   type="button"
-                  onClick={() => buyCoffee("0.000000003")}
+                  onClick={() => buyCoffee("0.003")}
                   >
-                  Buy 1 Large cup of coffee 0.003
+                  Buy 1 Large cup of coffee 0.003ETH
                 </button>
               </div>
             </form>
